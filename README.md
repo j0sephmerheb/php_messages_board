@@ -1,3 +1,3 @@
 # php_messages_board
-Simple comments section.
+Simple comments module.
 For learning purposes.
